@@ -1,0 +1,9 @@
+{
+  "name": "edgebet-brain",
+  "version": "1.0.0",
+  "description": "EdgeBet AI Scoring Service",
+  "main": "brain.js",
+  "scripts": {
+    "start": "node brain.js"
+  }
+}
